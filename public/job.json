@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "title": "Senior Software Engineer",
+    "img": "https://i.ibb.co.com/qyzKMzG/compnay-logo-1.png",
+    "text": "Embark on Your Career Journey as a Senior Software Engineer Softzino Technologies, a progressive software development firm located in Dhaka, Bangladesh, is on the lookout for skilled Sr. Software Engineers to enrich its vibrant team. Join us as we redefine innovation and push boundaries in the realm of technology."
+  },
+  {
+    "_id": 2,
+    "title": "We are looking for Urgently Node JS developer.",
+    "img": "https://i.ibb.co.com/2tfbn7j/compnay-logo-2.png",
+    "text": "Proficient in Node.js, LoopBack, and Next.js, with a strong foundation in Object-Oriented and functional programming. Experienced in writing reusable, testable, secure, and efficient TypeScript code. Skilled in JavaScript (ES6+), TypeScript, Node.js, React, LoopBack, and Material UI. Knowledgeable about software development architecture and the software development life cycle. Experienced in using Git and GitHub for source control."
+  },
+  {
+    "_id": 3,
+    "title": "Software Engineer",
+    "img": "https://i.ibb.co.com/2KXdRXF/compnay-logo-3.png",
+    "text": "We are seeking a highly skilled Software Engineer with expertise in Node.js, JavaScript, .NET, and SQL Server to join our dynamic team."
+  },
+  {
+    "_id": 4,
+    "title": "Content Creator",
+    "img": "https://i.ibb.co.com/f9BVBzg/compnay-logo-4.png",
+    "text": "Lynkto Ltd is looking for a young and dynamic Content Creator with strong expertise in AI tools to join our growing team. Please read the job responsibilities below before applying."
+  },
+  {
+    "_id": 5,
+    "title": "Senior Software Engineer",
+    "img": "https://i.ibb.co.com/qyzKMzG/compnay-logo-1.png",
+    "text": "Embark on Your Career Journey as a Senior Software Engineer Softzino Technologies, a progressive software development firm located in Dhaka, Bangladesh, is on the lookout for skilled Sr. Software Engineers to enrich its vibrant team. Join us as we redefine innovation and push boundaries in the realm of technology."
+  },
+  {
+    "_id": 6,
+    "title": "Software Engineer",
+    "img": "https://i.ibb.co.com/2KXdRXF/compnay-logo-3.png",
+    "text": "We are seeking a highly skilled Software Engineer with expertise in Node.js, JavaScript, .NET, and SQL Server to join our dynamic team."
+  }
+]

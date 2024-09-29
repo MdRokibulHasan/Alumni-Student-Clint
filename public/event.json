@@ -1,0 +1,34 @@
+[
+  {
+    "_id": 1,
+    "title": " We are going to arrange a get together!",
+    "date": 27,
+    "category": "meet up",
+    "img": "https://i.ibb.co.com/k0RyMcm/event-img-1.jpg",
+    "text": "Hello everybody Lorem ipsum dolor sit amet,consectetur adipisicing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim and minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipv exea."
+  },
+  {
+    "_id": 2,
+    "title": " We are going to arrange Meet Up",
+    "date": 27,
+    "category": "meet up",
+    "img": "https://i.ibb.co.com/TKx49LS/event-img-2.jpg",
+    "text": "Hello everybody Lorem ipsum dolor sit amet,consectetur adipisicing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim and minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipv exea."
+  },
+  {
+    "_id": 3,
+    "title": "Meet Up",
+    "date": 25,
+    "category": "meet up",
+    "img": "https://i.ibb.co.com/2MrW6mJ/event-img-3.jpg",
+    "text": "Hello everybody Lorem ipsum dolor sit amet,consectetur adipisicing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim and minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipv exea."
+  },
+  {
+    "_id": 4,
+    "title": " We are going to arrange a get together!",
+    "date": 8,
+    "category": "meet up",
+    "img": "https://i.ibb.co.com/K5m3QSr/event-img-4.jpg",
+    "text": "Hello everybody Lorem ipsum dolor sit amet,consectetur adipisicing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim and minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipv exea."
+  }
+]
